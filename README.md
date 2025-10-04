@@ -2,8 +2,6 @@
 A fully responsive, multi-page frontend clone of a modern e-commerce website, built using vanilla HTML, CSS, and JavaScript.
 
 🚀 Live Demo
-If the project is hosted (e.g., on GitHub Pages, Netlify, Vercel), include the link here.
-
 Live Link: https://unix-ecommerce-pifs.vercel.app/
 
 ✨ Features
